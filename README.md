@@ -1,3 +1,7 @@
+# Depends on
+
+The very awesome [jq](http://stedolan.github.io/jq).
+
 # Usage
 
     ./grab.sh <the-interrogatee> <your-git-username|$(whoami)> 
